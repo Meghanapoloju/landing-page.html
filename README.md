@@ -81,7 +81,7 @@
       background-color: #333;
       color: #fff;
       text-align: center;
-      padding: 3px 0; /* Adjusted padding for a smaller size */
+      padding: 3px 0; 
       position: fixed;
       width: 100%;
       bottom: 0;
